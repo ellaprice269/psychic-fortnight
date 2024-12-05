@@ -77,6 +77,7 @@ chisq.test(stfinal$fightscenes,stfinal$presenceofblood)
 
 #figure 1 box plot 
 boxplot(stfinal$music,stfinal$creature)
+chisq.test(stfinal$"11powers",stfinal$deaths)
 
 #anova
 anova <- aov(creature ~ music, data = stfinal)
