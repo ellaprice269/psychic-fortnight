@@ -14,6 +14,6 @@ The concept of visual effects was operationalized by measuring if there was bloo
 
 The concept of romance was operationalized by measuring the amount of times there was a kiss in a scene with a discrete variable, that being numeric. 
 
-The concept of visual effects was operationalized by measuring if music was playing in a scene with a dummy variable. 1=yes and 0=no; as well as measuring how many times the name "Will" is said in a scene with a discrete variable, that being numeric. 
+The concept of audio effects was operationalized by measuring if music was playing in a scene with a dummy variable. 1=yes and 0=no; as well as measuring how many times the name "Will" is said in a scene with a discrete variable, that being numeric. 
 
 The last concept of plot was operationalized by measuring how many times there was a flashback or when D&D (Dungeons and Dragons) was mentioned with a discrete variable, that being numeric; as well as measuring if the scene is moving the plot along and if the episode has a good rating(above a 9 on IMDB) or a bad one(below 8 on IMDB) with a dummy variable, 1=yes and 0=no. 
