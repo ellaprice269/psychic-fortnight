@@ -95,7 +95,7 @@ abline(v = meanx, col = "black")
 abline(v = meany, col = "black")
 
 #Figure 3 Residual Plot 
-plot(stfinal$kisses,residuals(linear_relationship))
+plot(stfinal$"11powers",residuals(linear_relationship))
 abline(h = 0, col ="black")
 
 
